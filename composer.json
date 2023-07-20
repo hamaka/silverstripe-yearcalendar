@@ -28,7 +28,7 @@
     "silverstripe/tagfield": "^2.0",
     "mediaweb/datetime": "^1.0",
     "sabre/vobject": "~4.1",
-    "fractaslabs/silverstripe-colorfield": "dev-master",
+    "tractorcow/silverstripe-colorpicker" "^4.2",
     "bummzack/translatable-dataobject": "1.*"
   },
   "extra": {
